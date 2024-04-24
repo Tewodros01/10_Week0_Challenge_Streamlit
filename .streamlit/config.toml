@@ -1,0 +1,12 @@
+[theme]
+base = "light"  # 'light' or 'dark'
+primaryColor = "#FF4B4B"  # Primary color for UI elements
+backgroundColor = "#FFFFFF"  # Background color
+textColor = "#333333"  # Text color
+
+[server]
+port = 8501  # Default port for the Streamlit server
+headless = true  # Whether to open a browser on start-up
+
+[deprecation]
+showPyplotGlobalUse = false  # Suppress global Pyplot warnings

@@ -1,0 +1,7 @@
+streamlit==1.33.0  # The version of Streamlit
+pandas==2.2.2  # Specify the version if needed
+numpy==1.26.4  # Core data library
+matplotlib==3.8.4  # For data visualization
+seaborn==0.13.2  # For enhanced plotting
+
+
