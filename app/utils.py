@@ -2,9 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import streamlit as st  # To display plots in Streamlit
-
-# Function to clean data
+import streamlit as st  # To display plots in Stream# Function to clean data
 def clean_data(data):
     data = data.replace([np.inf, -np.inf], np.nan)
 
