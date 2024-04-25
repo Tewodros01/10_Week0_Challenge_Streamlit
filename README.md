@@ -4,33 +4,6 @@
 
 This project involves creating a Streamlit dashboard to visualize data insights. The dashboard will feature interactive elements such as sliders and buttons, allowing users to customize their data visualizations. It will also be deployed to the Streamlit Community Cloud.
 
-## Folder Structure
-
-The recommended folder structure for this project is as follows:
-
-├── .streamlit
-│ └── config.toml
-├── .vscode
-│ └── settings.json
-├── .github
-│ └── workflows
-│ ├── unittests.yml
-├── .gitignore
-├── requirements.txt
-├── README.md
-├── notebooks
-│ ├── init.py
-│ └── README.md
-├── tests
-│ ├── init.py
-├── app
-│ ├── init.py
-│ ├── main.py # Main Streamlit application script
-│ ├── utils.py # Utility functions for data processing and visualization
-└── scripts
-├── init.py
-└── README.md
-
 ## Setup Instructions
 
 To set up the project on your local machine, follow these steps:
